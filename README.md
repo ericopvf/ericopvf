@@ -4,10 +4,12 @@
 
 # Hello, World! 😄     
 
-## My name is **Érico Portela**      
-## Programming student from Brazil 🇧🇷       
-## Currently majoring in **Computer Science** at **Federal University of Ceará** 👨‍🎓      
-## Learning new technologies everyday! 💯     
+---
+
+## My name is __Érico Portela__     
+### Programming student from Brazil 🇧🇷       
+### Currently majoring in __Computer Science__ at __Federal University of Ceará__ 👨‍🎓      
+### Learning new technologies everyday! 💯     
 
 ---
 
