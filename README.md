@@ -1,15 +1,11 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3IFDC29z1R8tQOU5Ha/giphy.gif" alt="Coffee & coding" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding with Coffee"/>
 </p>
 
 ## Hello, World! 😄
 
-My name is **Érico Portela** and i'm a programming student from Brazil. 🇧🇷
-I'm currently majoring in **Computer Science** at: 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Universidade_Federal_do_Cear%C3%A1_-_Marca_2016.svg/320px-Universidade_Federal_do_Cear%C3%A1_-_Marca_2016.svg.png" alt="UFC Logo" width="40"/>
-  <strong> Federal University of Ceará (UFC) </strong>
-</p>
+My name is **Érico Portela** and i am a programming student from Brazil. 🇧🇷
+I'm currently majoring in **Computer Science** at **Federal University of Ceará**. 👨‍🎓
 Learning new technologies everyday! 💯
 
 ---
