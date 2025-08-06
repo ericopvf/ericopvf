@@ -8,7 +8,7 @@
 
 ## My name is __Érico Portela__.     
 ### I'm a programming student from Brazil. 🇧🇷       
-### Currently majoring in __Computer Science__ 💻 at __Federal University of Ceará__ 👨‍🎓      
+### Currently majoring in __Computer Science__ 💻 at __Federal University of Ceará__ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Brasao_UFC.svg/1200px-Brasao_UFC.svg.png" width="20" alt="UFC"> 
 ### Learning new technologies everyday! 💯     
 
 ---
