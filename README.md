@@ -7,7 +7,7 @@
 ---
 
 ## My name is __Érico Portela__ ☕ 
-### I'm a programming student from Brazil 🇧🇷       
+### I'm a programming student from Ceará, Brazil 🏖️ 🇧🇷        
 ### Currently majoring in __Computer Science__ at __Federal University of Ceará__ 👨‍🎓
 ### Learning new technologies everyday! 💯     
 
